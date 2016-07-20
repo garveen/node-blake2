@@ -1,0 +1,26 @@
+{
+  "name": "blake2",
+  "version": "0.0.1",
+  "author": "Garveen",
+  "repository": "garveen/node-blake2",
+
+  "description": "blake2b, blake2bp, blake2s, blake2sp for node 0.10, just for compacity",
+  "homepage": "https://github.com/garveen/node-blake2",
+  "issues": "https://github.com/garveen/node-blake2/issues",
+  "keywords": [
+    "crypto",
+    "hash",
+    "hashing",
+    "blake2",
+    "blake2b",
+    "blake2bp",
+    "blake2s",
+    "blake2sp"
+  ],
+  "main": "index.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "nan": "^2.0.0"
+  }
+}
